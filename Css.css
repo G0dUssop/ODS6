@@ -1,18 +1,19 @@
 .container {
-    display: flex;
-    margin: 2% auto;
+    
+    margin: 6% auto;
     justify-content: center;
     align-items: center;
     text-align: center;
     
 }
 
-.flex-container {
-    display: flex;
-    flex-wrap: wrap;
+.info1 {
+    width: 30%;
+    margin: 0 auto;
 }
 
-.flex-container div {
-    margin: 2%;
-}
+
+
+
+
 
