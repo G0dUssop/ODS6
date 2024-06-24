@@ -12,6 +12,16 @@
     margin: 0 auto;
 }
 
+.carousel-item {
+    display: flex;
+    align-content: center;
+
+    background-color: #24bce4;
+    color: white;
+    border: solid black 2px;
+    border-radius: 10px;
+}
+
 
 
 
