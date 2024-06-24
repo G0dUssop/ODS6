@@ -7,10 +7,47 @@
     
 }
 
+.conteudo{
+    width: 20%;
+    margin: 6% auto;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
 .info1 {
     width: 30%;
-    margin: 0 auto;
+    margin: 6% auto;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
 }
+
+
+@media only screen and (max-width: 768px) { 
+    .info1 {
+        width: 50%;
+        margin: 0 auto;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }
+    
+}
+
+@media only screen and (max-width: 480px) { 
+    .info1 {
+        width: 70%;
+        margin: 0 auto;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }
+
+    
+    
+}
+
 
 
 
